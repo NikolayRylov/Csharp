@@ -1,0 +1,10 @@
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\obj\Debug\DZlesson1.csprojAssemblyReference.cache
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\obj\Debug\DZlesson1.Form1.resources
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\obj\Debug\DZlesson1.Properties.Resources.resources
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\obj\Debug\DZlesson1.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\obj\Debug\DZlesson1.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\bin\Debug\DZlesson1.exe.config
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\bin\Debug\DZlesson1.exe
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\bin\Debug\DZlesson1.pdb
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\obj\Debug\DZlesson1.exe
+C:\Users\Николай\Desktop\DZc#2\DZlesson1\DZlesson1\obj\Debug\DZlesson1.pdb
