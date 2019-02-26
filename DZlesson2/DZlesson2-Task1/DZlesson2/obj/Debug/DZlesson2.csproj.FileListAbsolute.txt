@@ -1,0 +1,7 @@
+C:\Users\Николай\Desktop\DZc#2\DZlesson2\DZlesson2\bin\Debug\DZlesson2.exe.config
+C:\Users\Николай\Desktop\DZc#2\DZlesson2\DZlesson2\bin\Debug\DZlesson2.exe
+C:\Users\Николай\Desktop\DZc#2\DZlesson2\DZlesson2\bin\Debug\DZlesson2.pdb
+C:\Users\Николай\Desktop\DZc#2\DZlesson2\DZlesson2\obj\Debug\DZlesson2.csprojAssemblyReference.cache
+C:\Users\Николай\Desktop\DZc#2\DZlesson2\DZlesson2\obj\Debug\DZlesson2.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\DZc#2\DZlesson2\DZlesson2\obj\Debug\DZlesson2.exe
+C:\Users\Николай\Desktop\DZc#2\DZlesson2\DZlesson2\obj\Debug\DZlesson2.pdb
